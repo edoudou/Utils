@@ -1,5 +1,5 @@
 # Utils
 Some useful functions
 
-#JS 
+# JS 
 - recursiveRegexMatch
